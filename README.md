@@ -1,6 +1,6 @@
 # Breast_Cancer_dataset_EDA
 # Breast Cancer Data Analysis & Machine Learning Models
-# This project focuses on analyzing the Breast Cancer dataset using various data preprocessing techniques and machine learning models toclassifiy Malingnant(Cancerous cells) and Benign(Cancerous cells) tumors.
+# This project focuses on analyzing the Breast Cancer dataset using various data preprocessing techniques and machine learning models to classifiy Malingnant(Cancerous cells) and Benign(Cancerous cells) tumors.
 
 ## 📌 Project Overview 
   - **Dataset:** Breast Cancer Dataset
