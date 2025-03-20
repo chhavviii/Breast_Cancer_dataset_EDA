@@ -29,4 +29,23 @@
   - Classification reports (Precision, Recall, F1-Score)
   - Confusion matrix visualization
 
- ## 
+ ## 📂 Repository Structure
+   # Exploratory Data Analysis & Statistical Insights  
+      stats.ipynb 
+      Another_Analysis 
+  # Feature Transformation Techniques 
+     power-transformer.ipynb
+  # Logistic Regression Implementation 
+      New_LR.ipynb
+  # K-Nearest Neighbors Classification
+      K-nearest.ipynb
+  # Decision Tree Classification 
+     Decision_Tree.ipynb
+
+  📌 Future Enhancements
+  - Implement additional models (SVM, Random Forest, etc.)
+  - Hyperparameter tuning for improved performance
+  - Deploy the best-performing model as a web app
+  
+  📜 License
+      This project is open-source and available under the MIT License.
