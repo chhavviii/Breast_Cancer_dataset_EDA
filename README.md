@@ -49,3 +49,14 @@
   
   📜 License
       This project is open-source and available under the MIT License.
+
+
+---
+## Feel free to contribute and suggest improvements! 🚀
+### **💡 Key Points:**  
+✔ **Headings (`# Heading`)** – Used for sections like "Project Overview"  
+✔ **Lists (`-`, `1.`)** – Used for bullet points  
+✔ **Code Blocks (` ```python `)** – Used for commands and code snippets  
+✔ **Inline Code (` `code` `)** – Used for small code references  
+🚀
+
