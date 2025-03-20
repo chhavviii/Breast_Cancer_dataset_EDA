@@ -6,7 +6,7 @@
   - **Dataset:** Breast Cancer Dataset
   - **Objective:** Analyze, preprocess, Feature Importance, PCA for Dimenstionality Reduction, 
                    Statistical Tests(T-test), and apply Machine Learning models for classification
-  - **Tools Used:** Python, Pandas, Numpy, MatplotLIb, Seaborn, Scikit-learn
+  - **Tools Used:** Python, Pandas, Numpy, MatplotLib, Seaborn, Scikit-learn
 
  ## 📊 Exploratory Data Analysis (EDA)
   - Statistical summaries of dataset features
@@ -19,7 +19,7 @@
   - Scaling numerical features (StandardScaler)
   - Power Transformation for feature distribution normalization
 
- ## 🤖 Machine Learning MOdels Implemented 
+ ## 🤖 Machine Learning Models Implemented 
   - **logistic Regression** - `New_LR.ipynb`
   - **K-Nearest Neighbour** - `K-nearest.ipynb`
   - **Decision Tree Classifier** - `Decision_Tree.ipynb`
